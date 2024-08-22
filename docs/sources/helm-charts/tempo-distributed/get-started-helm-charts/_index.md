@@ -256,6 +256,8 @@ If you don't need to specify the license in the `custom.yaml` file, you can refe
    ```yaml
    license:
      external: true
+     secretName:
+     path: /license/<license file>
    ```
 
 ### Set your storage option
